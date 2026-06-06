@@ -26,7 +26,7 @@
 #### 画面の説明
 
 ##### メイン画面
-![画像](screenshot/sctrrnshot(1).jpg)
+![画像](screenshot/screenshot(1).jpg)
 
 メイン画面画像リンク
 1. ファイル
