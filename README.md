@@ -28,7 +28,7 @@ AppSwitcher は、ホットキーでアプリケーションの表示・最小�
 ![画像](screenshot/screenshot(1).jpg)
 ### 編集画面（ホットキーの編集）
 ![画像](screenshot/screenshot(2).jpg)
-メイン画面、
+
 1. AppSwitcher を起動します。
 2. 「追加」をクリックします。
 3. 編集画面が開かれます。
